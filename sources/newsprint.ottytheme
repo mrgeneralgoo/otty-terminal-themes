@@ -1,0 +1,8 @@
+[meta]
+name = "Newsprint"
+mode = "light"
+
+[terminal]
+foreground = "#333638"
+background = "#f4f4f1"
+palette = ["#262522", "#A33A35", "#5C7A3E", "#967927", "#2F5F8A", "#904180", "#3E7A78", "#434340", "#7A766B", "#C25852", "#7A9A52", "#d4a945", "#4470a0", "#be79bb", "#739797", "#121211"]

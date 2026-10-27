@@ -1,0 +1,8 @@
+[meta]
+name = "Paper"
+mode = "light"
+
+[terminal]
+foreground = "#1A1A1A"
+background = "#FCFBF9"
+palette = ["#1A1A1A", "#A33A3A", "#2B5A38", "#A85A20", "#4A7A8A", "#4A3A6A", "#3A7A6A", "#474646", "#8C8A80", "#C36A6A", "#6B9A78", "#C88A50", "#7A9AAA", "#8A7A9A", "#6ABAAA", "#2F2E2E"]

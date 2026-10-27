@@ -1,0 +1,8 @@
+[meta]
+name = "April Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#FFFFFF"
+background = "#141B18"
+palette = ["#101513", "#E06C75", "#98C379", "#E5C07B", "#61AFEF", "#B876B8", "#5FB8A0", "#8A9992", "#5C6B64", "#EB8A91", "#C5E86C", "#F0D499", "#82C2F3", "#D098D0", "#85CDB6", "#FFFFFF"]

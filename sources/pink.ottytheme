@@ -1,0 +1,12 @@
+[meta]
+name = "Pink"
+mode = "light"
+
+[terminal]
+foreground = "#2A2422"
+background = "#F5F0F0"
+palette = ["#2A2422", "#B85951", "#6B8442", "#B8862E", "#4D72A0", "#B16078", "#4F8587", "#46403F", "#6B6360", "#D87169", "#8AA254", "#D5A445", "#6B8FBE", "#CC8595", "#6FA4A6", "#1A1412"]
+cursor = "#CC8595"
+cursor-text = "#F5F0F0"
+selection-background = "#EDC4BE"
+selection-foreground = "#2A2422"

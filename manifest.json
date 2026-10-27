@@ -1,0 +1,183 @@
+{
+  "otty_version": "1.6.2",
+  "provenance": "Local Otty theme files; may contain personal edits, not independently verified factory defaults. Only terminal color fields retained.",
+  "builtin_theme_names": [
+    "Acrylic Dark",
+    "April",
+    "April Dark",
+    "Ayu Dark",
+    "Ayu Light",
+    "Catppuccin Mocha",
+    "Dracula",
+    "Floating Card",
+    "Glass Dark",
+    "Glass Light",
+    "Gruvbox Dark",
+    "Monokai Classic",
+    "Newsprint",
+    "Night",
+    "Nord",
+    "One Dark",
+    "One Light",
+    "Owl",
+    "Paper",
+    "Pink",
+    "Rosé Pine",
+    "Seafoam Pastel",
+    "Solarized Dark",
+    "Solarized Light",
+    "Tokyo Night"
+  ],
+  "themes": [
+    {
+      "file": "acrylic-dark.ottytheme",
+      "name": "Acrylic Dark",
+      "original_sha256": "4501eb2257784be9309f1f14b655fe23c39a431ef1d8e58c407ec2139c3ebf60",
+      "snapshot_sha256": "8fbf37ff9549e49ddcef9a3b56a7644d6f2ce0c818cfffc2be200ad74d03f46e"
+    },
+    {
+      "file": "april-dark.ottytheme",
+      "name": "April Dark",
+      "original_sha256": "d7cb6220fbd90e6f4ddaf750dcc09e733f60df350d83f7bdcc58445467bc786a",
+      "snapshot_sha256": "a938a0b6c1662d8caf65705428c80181066c6dc90be5f5401e7a602005d633db"
+    },
+    {
+      "file": "april.ottytheme",
+      "name": "April",
+      "original_sha256": "a9f3bf33a04d53abd681aadefb106934fa7fb62526faaa33d8b122a074dbfad4",
+      "snapshot_sha256": "3e1f6eedb7a33de4a67ec409a01825108e2843702fb1c9c9a92f97edf8d48bd6"
+    },
+    {
+      "file": "ayu-dark.ottytheme",
+      "name": "Ayu Dark",
+      "original_sha256": "714f7d5d58232c1e4bc67e633b21c3c998e918432988c84b149608c32b226d74",
+      "snapshot_sha256": "f163c7e06972d0c1e011e72501acc85d59029e90ac0b2d5baab23964a069874d"
+    },
+    {
+      "file": "ayu-light.ottytheme",
+      "name": "Ayu Light",
+      "original_sha256": "0f8f37e83c5e3f4dd1b5358ed32e1465a6683ebde36a02594aafc8f077e4edfd",
+      "snapshot_sha256": "96d04b419bc73a3ee51dc475f52218246d6077ae1b3e6636d58fd177a5b6bced"
+    },
+    {
+      "file": "catppuccin-mocha.ottytheme",
+      "name": "Catppuccin Mocha",
+      "original_sha256": "3bdfd3e42eca133535ed334645639408b15e1ef55ea0dccc203fea961c1d2abf",
+      "snapshot_sha256": "c8628c705fa8a3a2948f81298728f2ee9768d9a55efa29e46d6c70e0af9e0447"
+    },
+    {
+      "file": "dracula.ottytheme",
+      "name": "Dracula",
+      "original_sha256": "b07b59d7ae0f261c69ff0a389b15b816718fbbf3870d517043b05a64028eb51c",
+      "snapshot_sha256": "3a4c833ad9c75da227c79721d0f4e8e5d1965f9305eb04e20295432dffb3328d"
+    },
+    {
+      "file": "floating-card.ottytheme",
+      "name": "Floating Card",
+      "original_sha256": "371e34924fc355df980cb6c0607e0bd6586695cf440b44fdd7d58ce2500261b2",
+      "snapshot_sha256": "264e80c2d665b4405983ef146e2062f806d6d414132ca8f31c7fa14e1a685845"
+    },
+    {
+      "file": "glass-dark.ottytheme",
+      "name": "Glass Dark",
+      "original_sha256": "f99566b6211c68f009e06c70139be86b8bd51ce0c49b983fb2f9a8367a1e5f72",
+      "snapshot_sha256": "959e6730d666bb5390be7c40581d75b8729a48f479a75bd9df895d046167ecc2"
+    },
+    {
+      "file": "glass-light.ottytheme",
+      "name": "Glass Light",
+      "original_sha256": "da3c8c3dd5a1e58fb67a436be5be4efb62b2709c846745b3519ea092afda24de",
+      "snapshot_sha256": "408f38e5e448dab0dcee88723aa54cfedf3e9301aea48484d444938afe790307"
+    },
+    {
+      "file": "gruvbox-dark.ottytheme",
+      "name": "Gruvbox Dark",
+      "original_sha256": "8625e3fcd617bb3c65821a1a5944e157996463dbaead8fe824a15f1e882d8803",
+      "snapshot_sha256": "bbf8bbe64a33e695117d7c6e66f5e07c9d1ba1d3bfa9b594961ab1143b943a4b"
+    },
+    {
+      "file": "monokai-classic.ottytheme",
+      "name": "Monokai Classic",
+      "original_sha256": "efc0d05a212c3917824053fc22ae58b8b5bfa86c42406ffba9a9922b63dbd0c3",
+      "snapshot_sha256": "104b5a6d1de575a64ca66ceb9160cb2b7925c8256620d19c4f8f3127f74b47be"
+    },
+    {
+      "file": "newsprint.ottytheme",
+      "name": "Newsprint",
+      "original_sha256": "50655eda946dafc0cfb958046527e30a83dbc9a5e7d2eb53a0dd360f455d9063",
+      "snapshot_sha256": "c4ef506b1799d7d56fba27daef488713f515bd9e03abaabfae0da6d0ce583e2d"
+    },
+    {
+      "file": "night.ottytheme",
+      "name": "Night",
+      "original_sha256": "85381694f0cc8b8060245118f6f33f59f87a109f8bdf0f93dec3fcfe1d8fad94",
+      "snapshot_sha256": "4d12782bc8ec7aa71cfbc1815b24216d9108a9b6cdff44c11d00d13986533ae4"
+    },
+    {
+      "file": "nord.ottytheme",
+      "name": "Nord",
+      "original_sha256": "fd855e04d89f8cc68bd5eea678f137208f36ccc3f39aac1a04fdf199d60003b4",
+      "snapshot_sha256": "4d3aa7e30879ccff783b4700507fa6a458b25592ae3d4e6e0396035226eb7769"
+    },
+    {
+      "file": "one-dark.ottytheme",
+      "name": "One Dark",
+      "original_sha256": "187c168c31555245e80eb8ac2316ab3e09dbab4c1d36dbed67164ee162cce0bc",
+      "snapshot_sha256": "50bd885abad0c83ca6da46fccb6dba840b738435e2da5e46fab63814295fc60e"
+    },
+    {
+      "file": "one-light.ottytheme",
+      "name": "One Light",
+      "original_sha256": "c56eef107f3bae15499626a7774c861a62f245fffa3ba34e90146176f099bfc3",
+      "snapshot_sha256": "93f4e6d38d4eb12a6db444a1ce506b5b1893601066c1c88e6fe8a90ed93a4bcb"
+    },
+    {
+      "file": "owl.ottytheme",
+      "name": "Owl",
+      "original_sha256": "7500a6d3621cf251760fe75108fe22c9f4ec05ce1eb9abbf12b308789268cc6f",
+      "snapshot_sha256": "dd565899efbbf9f16896764406b26dede08659718ae4aa425ac4b78dc8a60171"
+    },
+    {
+      "file": "paper.ottytheme",
+      "name": "Paper",
+      "original_sha256": "1fa31131ad0444e23857e228f547957f3159aee459f26fb84d73f3ae58fffecb",
+      "snapshot_sha256": "c3e9d3be4e36e18dff98b60d3afa54ac3a166dc25fb192d1b8d2ac75fb56312f"
+    },
+    {
+      "file": "pink.ottytheme",
+      "name": "Pink",
+      "original_sha256": "e0e05d4aac0f1886babdd27c9edec95fc817e94b9bab037bd72bdb372da03a4e",
+      "snapshot_sha256": "cbf337b94679caac05a568d6f2d09913f79e01fe886cebb89c55a22e475ab48d"
+    },
+    {
+      "file": "rose-pine.ottytheme",
+      "name": "Rosé Pine",
+      "original_sha256": "88435dc4786c6967be5a74a49b354349ac0b92763228d866ecd030806c627ec2",
+      "snapshot_sha256": "a39928dbf36196db9c07dc6d6fcad5c2e59e23a447d40a9af8ccb402f402034a"
+    },
+    {
+      "file": "seafoam-pastel.ottytheme",
+      "name": "Seafoam Pastel",
+      "original_sha256": "af168646f842b1df9972ea3614e548509344af30e576740eebf34db0db169582",
+      "snapshot_sha256": "190084d2256e583f4b709311d680da3cc94f046d61c50ac550166cdaf3fe7294"
+    },
+    {
+      "file": "solarized-dark.ottytheme",
+      "name": "Solarized Dark",
+      "original_sha256": "b6062048b3f9371196e3caf336d050887639277c4ac52ff91771449c09c74bf9",
+      "snapshot_sha256": "57ec90e6564782235b9a7f8317e7daec90a14ce4b83efe061a799f61aaa435d3"
+    },
+    {
+      "file": "solarized-light.ottytheme",
+      "name": "Solarized Light",
+      "original_sha256": "c3dcf2d871f31b854abf7d736cac8928d70857a1473974d32f1f79fa17930992",
+      "snapshot_sha256": "f6ffbd2b82c19570796a8ae0e15ef6625ceee19916da34b80ea5108fce80d0d9"
+    },
+    {
+      "file": "tokyo-night.ottytheme",
+      "name": "Tokyo Night",
+      "original_sha256": "fa12aed8174cdec01f1e2702912d62a0e5b5791732f0a5f8694ce7531c06185d",
+      "snapshot_sha256": "619877408cbe726dfc80c1bcfbb6ddd92b838e7f5260de6b9d0bfead93229650"
+    }
+  ]
+}

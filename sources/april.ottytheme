@@ -1,0 +1,8 @@
+[meta]
+name = "April"
+mode = "light"
+
+[terminal]
+foreground = "#17703f"
+background = "#ffffff"
+palette = ["#1A1F1C", "#B23B3B", "#5DA802", "#B88A3A", "#3D87C8", "#9B5AAB", "#3F9B85", "#464A47", "#878988", "#D04A3D", "#7CB342", "#D89B47", "#5AA3D6", "#A67ABF", "#5BB8A0", "#2A332E"]

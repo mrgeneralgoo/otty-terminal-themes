@@ -1,0 +1,10 @@
+[meta]
+name = "Floating Card"
+mode = "light"
+
+[terminal]
+foreground = "#24292E"
+background = "#FFFFFF"
+palette = ["#24292E", "#D73A49", "#28A745", "#DBAB09", "#0366D6", "#5A32A3", "#0598BC", "#45494E", "#959DA5", "#CB2431", "#22863A", "#B08800", "#005CC5", "#5A32A3", "#3192AA", "#191C20"]
+cursor = "#18181B"
+selection-background = "#E4E4E7"

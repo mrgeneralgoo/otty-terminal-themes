@@ -1,0 +1,8 @@
+[meta]
+name = "Ayu Light"
+mode = "light"
+
+[terminal]
+foreground = "#5C6166"
+background = "#FCFCFC"
+palette = ["#010101", "#E7666A", "#80AB24", "#EBA54D", "#4196DF", "#9870C3", "#51B891", "#44474B", "#84878B", "#EE9295", "#9FD32F", "#F0BC7B", "#6DAEE6", "#B294D2", "#75C7A8", "#2D2F32"]

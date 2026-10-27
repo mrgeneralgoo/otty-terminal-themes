@@ -1,0 +1,12 @@
+[meta]
+name = "Glass Light"
+mode = "light"
+
+[terminal]
+foreground = "#303030"
+background = "none"
+palette = ["#303030", "#A31700", "#0A7F3D", "#AF551D", "#006CD8", "#583CAC", "#00798A", "#494949", "#8c8c8c", "#A31700", "#0A7F3D", "#AF551D", "#006CD8", "#583CAC", "#00798A", "#1C1C1C"]
+cursor = "#303030"
+cursor-text = "#565656"
+selection-background = "#AD95E9"
+selection-foreground = "#FAFAFF"

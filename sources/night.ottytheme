@@ -1,0 +1,8 @@
+[meta]
+name = "Night"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#363B40"
+palette = ["#1F2226", "#F07178", "#C3E88D", "#FFCB6B", "#82AAFF", "#C792EA", "#89DDFF", "#BFC7D5", "#676E95", "#FF8B92", "#D2EE9F", "#FFD68A", "#9CBEFF", "#D5A8F0", "#A5E5FF", "#FFFFFF"]

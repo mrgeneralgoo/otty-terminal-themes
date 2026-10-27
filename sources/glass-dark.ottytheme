@@ -1,0 +1,10 @@
+[meta]
+name = "Glass Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#F7F8FF"
+background = "none"
+palette = ["#252A35", "#FF8A8A", "#A8D46F", "#E8C778", "#8DB7FF", "#D1A3FF", "#7FD6C2", "#E3E6F0", "#747B8E", "#FFB0A8", "#C8EA90", "#F2DA9A", "#B2CCFF", "#E0C2FF", "#A3E6D8", "#FFFFFF"]
+cursor = "#F7F8FF"
+selection-background = "#bbc9ed"
