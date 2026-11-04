@@ -1,6 +1,6 @@
 # Otty → macOS Terminal / iTerm2
 
-标准库实现的本地转换器，将仓库 `sources/` 中的 Otty `.ottytheme`（TOML）快照转换为 macOS Terminal `.terminal` 配置文件和 iTerm2 `.itermcolors` 配色预设。当前仓库包含 25 个主题快照及 `manifest.json`。这些是本地快照，可能经过用户定制；请阅读 `NOTICE.md` 了解来源和版权说明。程序只读取命令行指定的源文件或目录，不会扫描其他 Otty 配置目录、联网或上传数据。
+标准库实现的本地转换器，将仓库 `sources/` 中的 Otty `.ottytheme`（TOML）快照转换为 macOS Terminal `.terminal` 配置文件和 iTerm2 `.itermcolors` 配色预设。当前仓库包含 25 个主题快照及 `manifest.json`。请阅读 `NOTICE.md` 了解来源和版权说明。程序只读取命令行指定的源文件或目录，不会扫描其他 Otty 配置目录、联网或上传数据。
 
 ## 安装已生成的主题
 
@@ -27,7 +27,7 @@ open "themes/Nord.terminal"
 
 iTerm2 的预设名取自文件名，因此增加 `Otty - ` 前缀以方便辨认。这些是颜色预设，不会替换字体、启动命令或整套 Profile。
 
-这些配色来自 Otty 1.6.2 的本机主题文件，包含可能的个人修改，不保证等同于未经修改的出厂配色。仓库保持 **PRIVATE**，仅供个人使用。
+这些配色来自 Otty 1.6.2 的主题文件，包含可能的个人修改，不保证等同于未经修改的出厂配色。
 
 ## 用法
 
@@ -71,7 +71,7 @@ python3 otty_to_terminal.py /path/to/themes /path/to/terminal-profiles
 
 格式及使用方式参考 [iTerm2 Colors 文档](https://iterm2.com/documentation-preferences-profiles-colors.html)、[Window 文档](https://iterm2.com/documentation-preferences-profiles-window.html) 和 [官方配色预设](https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist)。
 
-仓库内快照仅用于个人主题转换；如果你将其公开发布或重新分发，请先核实来源和许可。`NOTICE.md` 记录相关来源与版权信息。本转换器不改变主题原有授权，也不会访问或导出本机其他用户配置。
+仓库内快照仅用于个人主题转换，`NOTICE.md` 记录相关来源与版权信息，本转换器不改变主题原有授权。
 
 ## 验证
 
@@ -81,4 +81,4 @@ find themes -name '*.terminal' -exec plutil -lint {} +
 find iterm2 -name '*.itermcolors' -exec plutil -lint {} +
 ```
 
-测试覆盖 ANSI 顺序、Unicode 名称、光标/选区回退、透明背景、无效输入、快照哈希、25 个主题的完整性和可重复生成。Terminal 版本此前还通过 macOS AppKit 原生解码独立核对了 509 个颜色值；iTerm2 版本按官方预设格式检查 sRGB/RGBA 字段并与源快照逐色比对。未自动导入 Terminal 或 iTerm2，也未进行逐主题视觉截图比对。
+测试覆盖 ANSI 顺序、Unicode 名称、光标/选区回退、透明背景、无效输入、快照哈希、25 个主题的完整性和可重复生成。Terminal 版本此前还通过 macOS AppKit 原生解码独立核对了 509 个颜色值；iTerm2 版本按官方预设格式检查 sRGB/RGBA 字段并与源快照逐色比对。
